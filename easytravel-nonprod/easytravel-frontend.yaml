@@ -79,4 +79,4 @@ spec:
   selector:
     easytravel-tier: easytravel-frontend
   sessionAffinity: None
-  type: NodePort
+  type: LoadBalancer
